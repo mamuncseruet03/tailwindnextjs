@@ -50,7 +50,10 @@ export default function Home() {
             {" "}
             mmmmmmmm {process.env.DB_HOST}
           </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50"></p>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            {" "}
+            hello how are you
+          </p>
         </a>
 
         <a
